@@ -1,0 +1,37 @@
+.h1
+{
+    color: darkgreen;
+}
+li
+{
+    color: rgba(72, 0, 255, 0.662);
+}
+h3
+{
+    color: darkred;
+}
+.span1
+{
+    color: rgba(139, 46, 0, 0.685);
+}
+@import url('https://fonts.googleapis.com/css2?family=Edu+AU+VIC+WA+NT+Guides:wght@400..700&family=Playwrite+AR+Guides&display=swap');
+.I-your_trener
+{
+    font-family: "Playwrite AR Guides", cursive;
+    color: rgba(128, 255, 0, 0.748)
+}
+@import url('https://fonts.googleapis.com/css2?family=Edu+AU+VIC+WA+NT+Guides:wght@400..700&family=Playwrite+AR+Guides&family=Playwrite+GB+S:ital,wght@0,100..400;1,100..400&display=swap');
+.zasmiyut
+{
+    font-family: "Playwrite GB S", cursive;
+    color: rgba(0, 102, 255, 0.747);
+}
+.oplata
+{
+  color: rgba(0, 157, 255, 0.753);  
+}
+.p1
+{
+    color: rgba(0, 147, 132, 0.723);
+}
+
